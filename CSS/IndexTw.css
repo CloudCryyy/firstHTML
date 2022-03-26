@@ -1,0 +1,22 @@
+.tableheader{
+    width: 100%;
+    background-color: #0d0d0d;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+section{
+    padding: 10%;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-size: 250%;
+}
+
+h2{
+    font-size: 150%;
+}
